@@ -4,8 +4,8 @@
 ***
 Zadania wykonane:
 
-Zadanie 1
-Zadanie 2
+- Zadanie 1
+- Zadanie 2
 
 ***
 
