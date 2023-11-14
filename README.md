@@ -18,4 +18,8 @@
 
 ***
 
-Pozostałe do wykonania
+Pozostało do wykonania:
+
+- Zadanie 10
+- Zadanie 11
+- Zadanie 12
