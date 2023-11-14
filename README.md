@@ -1,8 +1,10 @@
-## <p align="center">Hello</p>
+# <p align="center">Hello</p>
 
 
 ***
-Zadania wykonane:
+### Zadania wykonane:
+
+### Pierwsza seria zadań
 
 - Zadanie 1
 - Zadanie 2
