@@ -38,9 +38,9 @@ public class Main {
                 System.out.print("Podaj liczbę całkowitą Y: ");
                 int y = scan.nextInt();
 
-                boolean warunek1 = (x > 0) && (y > 0); // Czy obie liczby są dodatnie?
-                boolean warunek2 = (x > 0) || (y > 0); // Czy przynajmniej jedna liczba jest dodatnia?
-                boolean warunek3 = !(x == y); // Czy x nie jest równe y?
+                boolean warunek1 = (x > 0) && (y > 0);
+                boolean warunek2 = (x > 0) || (y > 0);
+                boolean warunek3 = !(x == y);
 
                 System.out.println("Czy obie liczby podane są dodatnie? : " + warunek1);
                 System.out.println("Czy przynajmniej jedna liczba jest dodatnia? : " + warunek2);
