@@ -12,6 +12,7 @@ Zadania wykonane:
 - Zadanie 6
 - Zadanie 7
 - Zadanie 8
+- Zadanie 9
 
 ***
 
