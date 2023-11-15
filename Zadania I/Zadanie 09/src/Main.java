@@ -1,12 +1,9 @@
-import java.time.LocalDate;
-import java.time.Period;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         char repeatProgram;
-        char selectOption;
         do {
             System.out.println("Podaj liczbę (0 - 9):");
             int number = scan.nextInt();

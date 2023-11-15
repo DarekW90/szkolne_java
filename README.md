@@ -15,11 +15,11 @@
 - Zadanie 7
 - Zadanie 8
 - Zadanie 9
+- Zadanie 10
+- Zadanie 11
+- Zadanie 12
 
 ***
 
 Pozostało do wykonania:
 
-- Zadanie 10
-- Zadanie 11
-- Zadanie 12
