@@ -21,5 +21,18 @@
 
 ***
 
+- Zadanie 13
+- Zadanie 14
+- Zadanie 15
+- Zadanie 16
+- Zadanie 17
+- Zadanie 18
+- Zadanie 19
+- Zadanie 20
+- Zadanie 21
+- Zadanie 22
+- Zadanie 23
+- Zadanie 24
+
 Pozostało do wykonania:
 
