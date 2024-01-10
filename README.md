@@ -19,7 +19,7 @@
 - Zadanie 11
 - Zadanie 12
 
-***
+### Druga seria zadań
 
 - Zadanie 13
 - Zadanie 14
@@ -28,11 +28,15 @@
 - Zadanie 17
 - Zadanie 18
 - Zadanie 19
+
+***
+
+Pozostało do wykonania:
+
+
 - Zadanie 20
 - Zadanie 21
 - Zadanie 22
 - Zadanie 23
 - Zadanie 24
-
-Pozostało do wykonania:
 
